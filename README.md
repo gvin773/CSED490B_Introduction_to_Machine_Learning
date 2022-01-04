@@ -17,4 +17,7 @@ probability and distribution, continuous optimization will be provided.
  - implement a ridge regression model
  - implement a bayesian linear regression model
 
-### Assignment4 - ?
+### Assignment4 - Principal Component Analysis
+ - implement the principal component analysis
+ - implement clustering algorithms: K-means, Gaussian mixture model (GMM)
+ 
