@@ -11,6 +11,10 @@ probability and distribution, continuous optimization will be provided.
 ### Assignment2 - Matrix Decompositions, Vector Calculus
  - hand-written assignment
 
-### Assignment3 - ?
+### Assignment3 - Linear Regression
+ - implement a linear regression model
+ - implement a polynomial regression model
+ - implement a ridge regression model
+ - implement a bayesian linear regression model
 
 ### Assignment4 - ?
